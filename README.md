@@ -42,4 +42,4 @@ Each record includes:
 ---
 
 **Author:** Shreyas Patil  
-**Keywords:** Python, Pandas, Data Analysis, Pharma, Bayer, Inventory Optimization
+**Keywords:** Python, Pandas, Data Analysis, Pharma, Inventory Optimization
