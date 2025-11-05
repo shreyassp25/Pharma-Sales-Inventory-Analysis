@@ -41,10 +41,5 @@ Each record includes:
 
 ---
 
-### 📈 Outcome
-A clean, beginner-friendly analysis project suitable for **Data Analyst / Data Engineering internship portfolios**, tailored for the **pharmaceutical domain** (Bayer).
-
----
-
 **Author:** Shreyas Patil  
 **Keywords:** Python, Pandas, Data Analysis, Pharma, Bayer, Inventory Optimization
