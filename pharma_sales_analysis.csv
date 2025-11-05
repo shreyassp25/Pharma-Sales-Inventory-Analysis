@@ -1,0 +1,9 @@
+Product_ID,Product_Name,Category,Units_Sold,Unit_Price,Region,Stock_Remaining,Total_Sales,Stock_to_Sales_Ratio
+P001,Paracetamol,OTC,1200,10,North,300,12000,0.25
+P002,Amoxicillin,Antibiotic,850,25,South,150,21250,0.17647058823529413
+P003,Cetrizine,OTC,1400,8,East,400,11200,0.2857142857142857
+P004,Insulin,Hormone,500,120,West,200,60000,0.4
+P005,Vitamin D3,Supplement,950,15,North,350,14250,0.3684210526315789
+P006,Azithromycin,Antibiotic,670,30,South,180,20100,0.26865671641791045
+P007,Metformin,Diabetic,780,22,East,220,17160,0.28205128205128205
+P008,Calcium,Supplement,890,18,West,280,16020,0.3146067415730337
